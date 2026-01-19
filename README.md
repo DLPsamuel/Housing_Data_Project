@@ -5,6 +5,7 @@ U.S. Rental Market, 2017 - 2023
 
 **Date**: December 5, 2025
 
+**View the complete analysis here:** https://github.com/DLPsamuel/Housing_Data_Project/blob/main/Housing_Supply_Analysis.ipynb
 
 # Executive Summary
 
